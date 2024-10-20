@@ -33,7 +33,7 @@ The FastAPI application will be available at http://127.0.0.1:8000.
 
 6. Run the Streamlit Application
 ```
-streamlit run app/streamlit_app.py
+streamlit run streamlit-app/app.py
 ```
 The Streamlit application will be available at http://localhost:8501
 
