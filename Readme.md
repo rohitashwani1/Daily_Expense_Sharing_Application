@@ -12,8 +12,8 @@ cd Daily_Expense_Sharing_Application
 
 2. Create a Virtual Environment
 ```
-python -m venv venv
-source venv/bin/activate
+python -m venv myenv
+source myenv/bin/activate
 ```
 3. Install Dependencies
 ```
